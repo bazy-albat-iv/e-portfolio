@@ -2948,10 +2948,11 @@ input, select, textarea {
 				display: block;
 				position: relative;
 				width: 30%;
+				padding: 1rem;
 			}
 
 				.spotlights > section > .image img {
-					border-radius: 0;
+					border-radius: 3%;
 					display: block;
 					width: 100%;
 				}
